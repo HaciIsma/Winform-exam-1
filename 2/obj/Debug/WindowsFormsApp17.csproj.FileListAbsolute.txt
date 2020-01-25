@@ -7,3 +7,12 @@ C:\Users\Haci\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\Windows
 C:\Users\Haci\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
 C:\Users\Haci\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
 C:\Users\Haci\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
+C:\Users\Haci\Desktop\WindowsForms Exam 1\2\bin\Debug\WindowsFormsApp17.exe.config
+C:\Users\Haci\Desktop\WindowsForms Exam 1\2\bin\Debug\WindowsFormsApp17.exe
+C:\Users\Haci\Desktop\WindowsForms Exam 1\2\bin\Debug\WindowsFormsApp17.pdb
+C:\Users\Haci\Desktop\WindowsForms Exam 1\2\obj\Debug\WindowsFormsApp17.csprojAssemblyReference.cache
+C:\Users\Haci\Desktop\WindowsForms Exam 1\2\obj\Debug\WindowsFormsApp17.Form1.resources
+C:\Users\Haci\Desktop\WindowsForms Exam 1\2\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+C:\Users\Haci\Desktop\WindowsForms Exam 1\2\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+C:\Users\Haci\Desktop\WindowsForms Exam 1\2\obj\Debug\WindowsFormsApp17.exe
+C:\Users\Haci\Desktop\WindowsForms Exam 1\2\obj\Debug\WindowsFormsApp17.pdb

@@ -24,7 +24,7 @@ namespace WindowsFormsApp17
             Random random = new Random();
             Direction direction = (Direction)random.Next(0, 3);
             Point point = new Point(label.Location.X, label.Location.Y);
-            int range = random.Next(0, maxRange);
+            int range = random.Next(250, maxRange);
 
             switch (direction)
             {
