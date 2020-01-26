@@ -6,7 +6,7 @@ namespace WindowsForms_Exam_1
 {
     public partial class Form1 : Form
     {
-        static int numbers = default;
+        static int numbers = 0;
         MouseEventArgs cord;
         public Form1()
         {
@@ -61,9 +61,13 @@ namespace WindowsForms_Exam_1
                 label.Size = new Size(X, Y);
             }
 
-            Random rand = new Random();
-            label.BackColor = Color.FromArgb(rand.Next(0, 256), rand.Next(0, 256), rand.Next(0, 256));
-            this.Controls.Add(label);
+            if (label.Width > 10 && label.Height > 10)
+            {
+                Random rand = new Random();
+                label.BackColor = Color.FromArgb(rand.Next(0, 256), rand.Next(0, 256), rand.Next(0, 256));
+                this.Controls.Add(label);
+            }
+
         }
     }
 }

@@ -14,3 +14,11 @@ C:\Users\Haci\Desktop\WindowsForms Exam 1\obj\Debug\WindowsForms_Exam_1.Properti
 C:\Users\Haci\Desktop\WindowsForms Exam 1\obj\Debug\WindowsForms Exam 1.csproj.GenerateResource.cache
 C:\Users\Haci\Desktop\WindowsForms Exam 1\obj\Debug\WindowsForms Exam 1.exe
 C:\Users\Haci\Desktop\WindowsForms Exam 1\obj\Debug\WindowsForms Exam 1.pdb
+C:\Users\Haci\Desktop\WindowsForms Exam 1\1\bin\Debug\WindowsForms Exam 1.exe.config
+C:\Users\Haci\Desktop\WindowsForms Exam 1\1\bin\Debug\WindowsForms Exam 1.exe
+C:\Users\Haci\Desktop\WindowsForms Exam 1\1\bin\Debug\WindowsForms Exam 1.pdb
+C:\Users\Haci\Desktop\WindowsForms Exam 1\1\obj\Debug\WindowsForms Exam 1.csprojAssemblyReference.cache
+C:\Users\Haci\Desktop\WindowsForms Exam 1\1\obj\Debug\WindowsForms_Exam_1.Properties.Resources.resources
+C:\Users\Haci\Desktop\WindowsForms Exam 1\1\obj\Debug\WindowsForms Exam 1.csproj.GenerateResource.cache
+C:\Users\Haci\Desktop\WindowsForms Exam 1\1\obj\Debug\WindowsForms Exam 1.exe
+C:\Users\Haci\Desktop\WindowsForms Exam 1\1\obj\Debug\WindowsForms Exam 1.pdb
